@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4A Pertemuan 11
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- [Alvi Yuniar] - [2010631170050]
 - [Anandito Rafi Putra] - [2010631170137]
 - [Anisa Nur Hasanah] - [2010631170052]
 - [Adrian Ramadhani] - [2010631170135]
