@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4A Pertemuan 11
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- [Yohanes Anjar Dewantara] - [2010631170134]
 - [Anisah] - [2010631170053]
 - [Adi Sunandar] - [2010631170041]
 - [Altolyto Sitanggang] - [2010631170049]
