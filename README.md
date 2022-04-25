@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4A Pertemuan 11
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- [Adrian Wibisono] - [2010631170043]
 - [Alif Karimullah] - [2010631170046]
 - [Andriani Nurian] - [2010631170002]
 - [Annabella Dian Dameria Sinambela] - [2010631170054]
