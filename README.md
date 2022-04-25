@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4A Pertemuan 11
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- [Anisa Nur Hasanah] - [2010631170052]
 - [Adrian Ramadhani] - [2010631170135]
 - [Dede Fitriyani] - [2010631170007]
 - [Asyifa Maulana] - 2010631170004]
